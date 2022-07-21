@@ -13,9 +13,13 @@ documentclass: article
 # Rapport sur les commanes GIT et LINUX
 
 
-# Titre:
-Ceci est un test.
-![](./img/capture_commande_push.png){width=2in}
+# Les commandes linux:
+1. La commande LS:
+- Description:
+La commande LS permet de lister le contenu du répertoire courant: fichiers et autres répertoires imbriqués.
+- _Eemple d'utilisation:
+
+![](./img/commande_LS.png){width=2in}
 
 ## Sous titre:
 ### Sous sous titre
