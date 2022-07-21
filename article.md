@@ -33,12 +33,22 @@ PWD "Print Working Directory".
 - Description: 
 Elle permet d'accéder à un répertoire en mettant cd et le nom.
 Elle signifie "Change Directory". 
-- _Exemple d'utilisation:
+- _Exemples d'utilisation:
 - __Exples:
 cd .. :permet de monter d'un niveau.
 cd - : retourner au répertoire précedent.
 
 ![](./img/commande_CD.png){width=2in}
+
+4. La commande CP:
+- Description: 
+Elle permet de copier des fichiers et des répertoires directement depuis le terminal. 
+- _Exemples d'utilisation:
+- __Exples:
+cp fichier1.txt nouveau_fichier 
+cp -r rep1/ nouveau_rep/
+
+![](./img/commande_CP.png){width=2in}
 
 
 
