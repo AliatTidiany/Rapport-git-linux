@@ -24,10 +24,23 @@ La commande LS permet de lister le contenu du répertoire courant: fichiers et a
 2. La commande PWD:
 - Description: 
 Elle permet d'afficher le répertoire de travail et donne le chemin absolu du répertoire dans lequel vous vous trouvez.
-PWD "print working directory". 
+PWD "Print Working Directory". 
 - _Exemple d'utilisation:
 
 ![](./img/commande_PWD.png){width=2in}
+
+3. La commande CD:
+- Description: 
+Elle permet d'accéder à un répertoire en mettant cd et le nom.
+Elle signifie "Change Directory". 
+- _Exemple d'utilisation:
+- __Exples:
+cd .. :permet de monter d'un niveau.
+cd - : retourner au répertoire précedent.
+
+![](./img/commande_CD.png){width=2in}
+
+
 
 
 ## Sous titre:
