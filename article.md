@@ -21,6 +21,15 @@ La commande LS permet de lister le contenu du répertoire courant: fichiers et a
 
 ![](./img/commande_LS.png){width=2in}
 
+2. La commande PWD:
+- Description: 
+Elle permet d'afficher le répertoire de travail et donne le chemin absolu du répertoire dans lequel vous vous trouvez.
+PWD "print working directory". 
+- _Exemple d'utilisation:
+
+![](./img/commande_PWD.png){width=2in}
+
+
 ## Sous titre:
 ### Sous sous titre
 
