@@ -4,13 +4,13 @@ title: |
   "Rapport fin de parcours DevOps."
 subtitle: "Overview"
 date: \today{}
-lang: en-EN
+lang: fr-FR
 urlcolor: blue
 geometry: "left=2.5cm,right=2.5cm,top=3cm,bottom=3cm"
-documentclass: article
+documentclass: Rapport
 
 ---
-# Rapport sur les commanes GIT et LINUX
+# Rapport sur les commandes GIT et LINUX
 
 
 # Les commandes linux:
