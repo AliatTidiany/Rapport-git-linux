@@ -45,10 +45,20 @@ cd - : retourner au répertoire précedent.
 Elle permet de copier des fichiers et des répertoires directement depuis le terminal. 
 - _Exemples d'utilisation:
 - __Exples:
-cp fichier1.txt nouveau_fichier 
+cp fichier1.rtf nouveau_fichier.rtf 
 cp -r rep1/ nouveau_rep/
 
 ![](./img/commande_CP.png){width=2in}
+
+5. La commande RM:
+- Description: 
+Elle permet de suppprimer des fichiers et des répertoires. 
+- _Exemples d'utilisation:
+- __Exples:
+rm -r permet de supprimer un répertoire vide
+rm -rf permet de supprimer un répertoire avec son contenu.
+
+![](./img/commande_RM.png){width=2in}
 
 
 
