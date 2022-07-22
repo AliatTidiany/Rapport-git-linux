@@ -60,6 +60,16 @@ rm -rf permet de supprimer un répertoire avec son contenu.
 
 ![](./img/commande_RM.png){width=2in}
 
+6. La commande MV:
+- Description: 
+Elle permet de déplacer ou renommer des fichiers/répertoires ds le système de fichiers. 
+- _Exemples d'utilisation:
+- __Exples:
+mv fichier2.rtf nouveau_rep/
+mv nouveau_fichier.rtf fichier2.rtf
+
+![](./img/commande_MV.png){width=2in}
+
 
 
 
