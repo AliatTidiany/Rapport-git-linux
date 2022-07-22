@@ -70,6 +70,20 @@ mv nouveau_fichier.rtf fichier2.rtf
 
 ![](./img/commande_MV.png){width=2in}
 
+7. La commande MKDIR:
+- Description: 
+Elle permet de créer de nouveaux répertoires au niveau du shell. 
+- _Exemples d'utilisation:
+- __Exples:
+mkdir rep3/
+mkdir -p rep3/rep4/
+
+![](./img/commande_MKDIR.png){width=2in}
+
+![](./img/Illustration1_MKDIR.png){width=2in}
+
+![](./img/Illustration2_MKDIR.png){width=2in}
+
 
 
 
