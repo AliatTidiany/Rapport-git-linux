@@ -174,6 +174,13 @@ git branch -d <nom-branche>: pour supprimer une branche.
 
 ![](./img/commande_git_branch.png){width=2in}
 
+9. La commande GIT PULL:
+Elle permet de fusionner toutes les modifications présentes sur le dépôt distant dans le répertoire de travail local.
+Exemple d'illustration:
+git pull
+
+![](./img/commande_git_pull.png){width=2in}
+
 
 
 
