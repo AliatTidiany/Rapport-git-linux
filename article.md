@@ -131,6 +131,13 @@ git add article.md
 
 ![](./img/commande_git_add.png){width=2in}
 
+3. La commande GIT COMMIT:
+Elle permet de valider les modifications apportées au HEAD.
+Exemple d'illustration:
+git commit -m "Commande GIT STATUS"
+
+![](./img/commande_git_commit.png){width=2in}
+
 
 
 
