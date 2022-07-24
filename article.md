@@ -84,6 +84,18 @@ mkdir -p rep3/rep4/
 
 ![](./img/Illustration2_MKDIR.png){width=2in}
 
+8. La commande MAN:
+- Description: 
+Elle affiche la page de manuel de n'importe quelle autre commande. 
+- _Exemples d'utilisation:
+- __Exple:
+mkdir man
+
+![](./img/commande_MAN.png){width=2in}
+
+![](./img/Illustration_MAN.png){width=2in}
+
+
 
 
 
