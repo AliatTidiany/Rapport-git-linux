@@ -106,6 +106,16 @@ touch fiche3.rtf
 
 ![](./img/Illustration_TOUCH.png){width=2in}
 
+10. La commande History:
+- Description: 
+Elle affiche une liste numérotée des commandes utilisées antérieurement. 
+- _Exemple d'utilisation:
+- __Exple:
+history
+
+![](./img/commande_HISTORY.png){width=2in}
+
+
 
 
 
