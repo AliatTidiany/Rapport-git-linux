@@ -152,12 +152,19 @@ git clone /chemin/vers/dépôt
 
 ![](./img/commande_git_clone.png){width=2in}
 
-6. La commande CLONE INIT:
+6. La commande GIT INIT:
 Elle permet de créer un nouveau dépôt GIT.
 Exemple d'illustration:
 git init
 
 ![](./img/commande_git_init.png){width=2in}
+
+7. La commande GIT CONFIG:
+Elle permet de configurer les préférences de l'utilisateur:mail, nom utilisateur, format fichier.
+Exemple d'illustration:
+git config --global user.email alioune201@outlook.com
+
+![](./img/commande_git_config.png){width=2in}
 
 
 
