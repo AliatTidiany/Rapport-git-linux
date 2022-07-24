@@ -116,6 +116,15 @@ history
 ![](./img/commande_HISTORY.png){width=2in}
 
 
+# Les commandes GIT:
+1. La commande GIT STATUS:
+Elle affiche la liste des fichiers modifiés ainsi que les fichiers qui doivent encore être ajoutés ou validés.
+Exemple d'illustration:
+git status
+
+![](./img/commande_git_status.png){width=2in}
+
+
 
 
 
