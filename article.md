@@ -145,6 +145,13 @@ git push
 
 ![](./img/commande_git_push.png){width=2in}
 
+5. La commande CLONE GIT:
+Elle permet de vérifier les dépôts, aussi de créer un dépôt de travail en local sur la machine.
+Exemple d'illustration:
+git clone /chemin/vers/dépôt
+
+![](./img/commande_git_clone.png){width=2in}
+
 
 
 
