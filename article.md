@@ -138,6 +138,13 @@ git commit -m "Commande GIT STATUS"
 
 ![](./img/commande_git_commit.png){width=2in}
 
+4. La commande GIT PUSH:
+Elle permet d'envoyer les modifications locales apportées à la branche principale.
+Exemple d'illustration:
+git push
+
+![](./img/commande_git_push.png){width=2in}
+
 
 
 
