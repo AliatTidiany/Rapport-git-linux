@@ -152,6 +152,14 @@ git clone /chemin/vers/dépôt
 
 ![](./img/commande_git_clone.png){width=2in}
 
+6. La commande CLONE INIT:
+Elle permet de créer un nouveau dépôt GIT.
+Exemple d'illustration:
+git init
+
+![](./img/commande_git_init.png){width=2in}
+
+
 
 
 
