@@ -166,6 +166,14 @@ git config --global user.email alioune201@outlook.com
 
 ![](./img/commande_git_config.png){width=2in}
 
+8. La commande GIT BRANCH:
+Elle permet de répertorier, créer ou supprimer des branches.
+Exemple d'illustration:
+git branch: pour répertorier les branches.
+git branch -d <nom-branche>: pour supprimer une branche.
+
+![](./img/commande_git_branch.png){width=2in}
+
 
 
 
