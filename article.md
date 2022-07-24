@@ -124,6 +124,15 @@ git status
 
 ![](./img/commande_git_status.png){width=2in}
 
+2. La commande GIT ADD:
+Elle permet d'ajouter des fichiers à l'index.
+Exemple d'illustration:
+git add article.md
+
+![](./img/commande_git_add.png){width=2in}
+
+
+
 
 
 
