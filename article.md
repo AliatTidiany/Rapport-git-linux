@@ -87,13 +87,24 @@ mkdir -p rep3/rep4/
 8. La commande MAN:
 - Description: 
 Elle affiche la page de manuel de n'importe quelle autre commande. 
-- _Exemples d'utilisation:
+- _Exemple d'utilisation:
 - __Exple:
 mkdir man
 
 ![](./img/commande_MAN.png){width=2in}
 
 ![](./img/Illustration_MAN.png){width=2in}
+
+9. La commande TOUCH:
+- Description: 
+Elle permet de créer de nouveaux fichiers ainsi que de mettre à jour les temps d'accès et de modification des fichiers. 
+- _Exemple d'utilisation:
+- __Exple:
+touch fiche3.rtf
+
+![](./img/commande_TOUCH.png){width=2in}
+
+![](./img/Illustration_TOUCH.png){width=2in}
 
 
 
