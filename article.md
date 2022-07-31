@@ -35,10 +35,7 @@ Voir la capture ci-dessous:
 
  ![](./img/code_porteclef.png){width=2in}
 
- ***Capture montage***
-
- ![](./img/Montage_arduino.png){width=2in}
-
+ 
 
 
 
