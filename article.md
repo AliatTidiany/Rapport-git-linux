@@ -26,7 +26,7 @@ documentclass: article
 
 Voir la capture ci-dessous:
 
-![](./img/Lecture_UID_carte.png){width=2in}
+![](./img/Lecture_UID_carte.png){width=8in}
 
 ## **Implementation d'une application domotique :** 
  Ici on va choisir la porte clef (28 255 27 74) comme étant la clef d'accès afin d'allumer la LED verte, la lampe et ouvrir une porte.
