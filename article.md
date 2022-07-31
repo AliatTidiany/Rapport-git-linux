@@ -33,7 +33,7 @@ Voir la capture ci-dessous:
 
  Ainsi pour toute autre carte on aura la LED rouge et le buzzer qui vont être déclencher.
 
- ![](./img/code_porteclef.png){width=2in}
+ ![](./img/code_porteclef.png){width=8in}
 
  
 
