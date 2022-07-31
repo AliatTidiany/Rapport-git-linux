@@ -18,6 +18,16 @@ documentclass: article
 
 ![](./img/Biblio_MFRC522.png){width=2in}
 
+## **Programme lecture de l'UID :**
+
+***Lecture des numeros d'dentification des deux (2) cartes *** 
+1. Carte: 67 148 110 06 
+2. Porte clef: 28 255 27 74 
+
+Voir la capture ci-dessous:
+
+![](./img/Lecture_UID_carte.png){width=2in}
+
 
 
 
