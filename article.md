@@ -28,7 +28,16 @@ Voir la capture ci-dessous:
 
 ![](./img/Lecture_UID_carte.png){width=2in}
 
+## **Implementation d'une application domotique :** 
+ Ici on va choisir la porte clef (28 255 27 74) comme étant la clef d'accès afin d'allumer la LED verte, la lampe et ouvrir une porte.
 
+ Ainsi pour toute autre carte on aura la LED rouge et le buzzer qui vont être déclencher.
+
+ ![](./img/code_porteclef.png){width=2in}
+
+ ***Capture montage***
+
+ ![](./img/Montage_arduino.png){width=2in}
 
 
 
